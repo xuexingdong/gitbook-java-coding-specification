@@ -1,7 +1,5 @@
 # Spring Boot 规范
 
-#### 
-
 #### 项目目录
 
 * project
