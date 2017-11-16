@@ -30,14 +30,13 @@
 | 字段类型 | 校验名称 |
 | :--- | :--- |
 | Integer |  |
+| Double |  |
+| Float |  |
 | String |  |
 | Boolean |  |
 | LocalDate/LocalTime/LocalDateTime |  |
+| Enum |  |
 | Object |  |
 
-
-
 BindingResult处理：
-
-
 
