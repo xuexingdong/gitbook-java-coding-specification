@@ -27,5 +27,5 @@
 
 #### Validation
 
-BindingResult
+BindingResult处理：
 
