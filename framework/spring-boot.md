@@ -27,5 +27,17 @@
 
 #### Validation
 
+| 字段类型 | 校验名称 |
+| :--- | :--- |
+| Integer |  |
+| String |  |
+| Boolean |  |
+| LocalDate/LocalTime/LocalDateTime |  |
+| Object |  |
+
+
+
 BindingResult处理：
+
+
 
