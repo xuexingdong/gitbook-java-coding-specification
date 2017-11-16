@@ -19,13 +19,15 @@
 
 #### Controller
 
+必须加的三个注解
 
+`@RestController`
+
+`@RequestMapping`
+
+`@Validated`
 
 #### Validation
 
 BindingResult
-
-
-
-
 
